@@ -4,6 +4,9 @@ This code provides a PyTorch implementation of the paper titled **ENERGY BACKDOO
 
 The figure above provides an overview of the backdoored model. Neurons circled in orange refer to unnecessary neurons that fire when the trigger is present in the input.
 
+# ICASSP 2025 POSTER
+We additionally include the ![poster presented at ICASSP 2025](energy_latency_backdoor_attack_poster.pdf), which summarizes the experimental procedure, the motivation behind our strategy, and the key results obtained.
+
 ## Dependencies and Reproducibility
 All dependencies can be found in ![dependencies.txt](dependencies.txt) file
 
