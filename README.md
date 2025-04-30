@@ -35,14 +35,8 @@ But the provided files can also be run in any other environment with the require
 
 If you find our work helpful, please consider citing it 
 ````
-@misc{meftah2025energybackdoorattackdeep,
-      title={Energy Backdoor Attack to Deep Neural Networks}, 
-      author={Hanene F. Z. Brachemi Meftah and Wassim Hamidouche and Sid Ahmed Fezza and Olivier Déforges and Kassem Kallas},
-      year={2025},
-      eprint={2501.08152},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2501.08152}, 
+H. F. Z. Brachemi Meftah, W. Hamidouche, S. A. Fezza, O. Déforges and K. Kallas, "Energy Backdoor Attack to Deep Neural Networks," ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025, pp. 1-5, doi: 10.1109/ICASSP49660.2025.10888330. keywords: {Deep learning;Energy consumption;Source coding;Catalysts;Artificial neural networks;Signal processing;Energy efficiency;Complexity theory;Speech processing;Optimization;Deep neural network;energy attacks;backdoor attacks},
+
 }
 ````
 ## Acknowledgements
